@@ -1,0 +1,11 @@
+.light-gradient {
+  background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+}
+
+.dark-gradient {
+  background: linear-gradient(135deg, #30cfd0 0%, #330867 100%);
+}
+
+.backdrop-blur-md {
+  backdrop-filter: blur(12px);
+}
